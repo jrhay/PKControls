@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLightControl", "TrafficLightControl\TrafficLightControl.csproj", "{6455968E-4C19-43A5-B92F-A7E02939D16B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PKControls", "PKControls\PKControls.csproj", "{CF6EFF05-567A-42F5-B31C-55DD71C5C449}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlTesters", "ControlTesters\ControlTesters.csproj", "{11B1F7CF-59DF-4221-A936-92027546EE60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Distribution|Any CPU = Distribution|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6455968E-4C19-43A5-B92F-A7E02939D16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6455968E-4C19-43A5-B92F-A7E02939D16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6455968E-4C19-43A5-B92F-A7E02939D16B}.Distribution|Any CPU.ActiveCfg = Distribution|Any CPU
+		{6455968E-4C19-43A5-B92F-A7E02939D16B}.Distribution|Any CPU.Build.0 = Distribution|Any CPU
+		{6455968E-4C19-43A5-B92F-A7E02939D16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6455968E-4C19-43A5-B92F-A7E02939D16B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF6EFF05-567A-42F5-B31C-55DD71C5C449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6EFF05-567A-42F5-B31C-55DD71C5C449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF6EFF05-567A-42F5-B31C-55DD71C5C449}.Distribution|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF6EFF05-567A-42F5-B31C-55DD71C5C449}.Distribution|Any CPU.Build.0 = Debug|Any CPU
+		{CF6EFF05-567A-42F5-B31C-55DD71C5C449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF6EFF05-567A-42F5-B31C-55DD71C5C449}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11B1F7CF-59DF-4221-A936-92027546EE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B1F7CF-59DF-4221-A936-92027546EE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11B1F7CF-59DF-4221-A936-92027546EE60}.Distribution|Any CPU.ActiveCfg = Debug|Any CPU
+		{11B1F7CF-59DF-4221-A936-92027546EE60}.Distribution|Any CPU.Build.0 = Debug|Any CPU
+		{11B1F7CF-59DF-4221-A936-92027546EE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11B1F7CF-59DF-4221-A936-92027546EE60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {811E3BBA-BAFC-456D-A635-D56A52F95310}
+	EndGlobalSection
+EndGlobal
