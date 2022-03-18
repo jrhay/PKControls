@@ -16,5 +16,5 @@ WinForms controls for status reporting and other simple needs
     
 + **ctlNumTag**
 
-    Display a nametag-like bade with a large bold number and a label to report number
+    Display a nametag-like badge with a large bold number and a label to report number
     of items matching a criteria.
